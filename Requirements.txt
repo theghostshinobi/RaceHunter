@@ -1,0 +1,7 @@
+httpx>=0.24.1
+anyio>=3.7.0
+asyncio
+dataclasses; python_version < "3.7"
+typing-extensions
+rich
+
